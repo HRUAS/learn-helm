@@ -1,1 +1,1 @@
-install-helm.sh text eol=lf executable
+install_helm.sh text eol=lf executable
